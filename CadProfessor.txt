@@ -1,6 +1,7 @@
 		Cadastro de Professor
 
-Matrícula:
+MatrÃ­cula:
 Nome:
 E-mail:
- 
+
+Prof. Renato
