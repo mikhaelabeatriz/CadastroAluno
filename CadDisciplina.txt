@@ -1,4 +1,6 @@
 		Cadastro de Disciplina
 
-Código:
+CÃ³digo:
 Disciplina: 
+
+Semestre:
